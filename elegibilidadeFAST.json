@@ -1,0 +1,7 @@
+{
+  "Codigo": 403,
+  "Mensagem": "Cliente inelegível ao fast.",
+  "MensagensUsuario": [
+    "Esse CPF não está cadastrado na Localiza. Faça seu cadastro."
+  ]
+}
